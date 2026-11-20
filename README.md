@@ -1,7 +1,7 @@
-# Bansī Vigyān — The Science of the Flute (English edition)
+# Bansī Vigyān — The Science of the Bānsurī (English edition)
 
 The website of the English edition of *Bansī Vigyān* by Pt. Uma Kant Pathak ji: a book on the
-bānsurī — how to make it, how to practise it, and how to perform on it — written as Sanskrit
+bānsurī (the Indian bamboo flute): how to make it, how to practise it, and how to perform on it — written as Sanskrit
 ślokas with the author's own commentary.
 
 This repository holds only the built, static website, served by GitHub Pages. It is generated;
